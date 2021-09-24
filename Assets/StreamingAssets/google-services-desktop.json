@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228159497854",
+    "project_id": "killer-splat",
+    "storage_bucket": "killer-splat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228159497854:android:510fc2b2341ffa7b681a2f",
+        "android_client_info": {
+          "package_name": "com.tgb.KillerSplat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228159497854-k5qsk7hl112pro3h83aa8qc7lth3isgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXH6lqQn33GZ2spLnexJtwvaGoYRopyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228159497854-k5qsk7hl112pro3h83aa8qc7lth3isgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228159497854-ecj0fd31vnhro5uk1upis9djr9nf13p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tgb.KillerSplat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

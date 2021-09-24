@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">228159497854</string>
+  <string name="google_storage_bucket" translatable="false">killer-splat.appspot.com</string>
+  <string name="project_id" translatable="false">killer-splat</string>
+  <string name="google_api_key" translatable="false">AIzaSyAYXH6lqQn33GZ2spLnexJtwvaGoYRopyI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYXH6lqQn33GZ2spLnexJtwvaGoYRopyI</string>
+  <string name="google_app_id" translatable="false">1:228159497854:android:510fc2b2341ffa7b681a2f</string>
+  <string name="default_web_client_id" translatable="false">228159497854-k5qsk7hl112pro3h83aa8qc7lth3isgq.apps.googleusercontent.com</string>
+</resources>

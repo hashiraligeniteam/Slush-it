@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Arslan.Asif\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Arslan.Asif\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_KillerSplat.354835278.00" t="ExcludeRecursive" />
+    <e p="D:\Arslan Asif\Projects\KillerSplat" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Adjust" t="Include">
+          <e p="3rd Party" t="Include">
+            <e p="SimpleJSON.cs" t="Include" />
+          </e>
+          <e p="Android" t="Include">
+            <e p="AdjustAndroid.cs" t="Include" />
+            <e p="AdjustAndroidManifest.xml" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AdjustEditor.cs" t="Include" />
+            <e p="AdjustSettings.cs" t="Include" />
+          </e>
+          <e p="ExampleGUI" t="Include">
+            <e p="ExampleGUI.cs" t="Include" />
+          </e>
+          <e p="iOS" t="Include">
+            <e p="AdjustiOS.cs" t="Include" />
+          </e>
+          <e p="Unity" t="Include">
+            <e p="Adjust.cs" t="Include" />
+            <e p="AdjustAppStoreSubscription.cs" t="Include" />
+            <e p="AdjustAttribution.cs" t="Include" />
+            <e p="AdjustConfig.cs" t="Include" />
+            <e p="AdjustEnvironment.cs" t="Include" />
+            <e p="AdjustEvent.cs" t="Include" />
+            <e p="AdjustEventFailure.cs" t="Include" />
+            <e p="AdjustEventSuccess.cs" t="Include" />
+            <e p="AdjustLogLevel.cs" t="Include" />
+            <e p="AdjustPlayStoreSubscription.cs" t="Include" />
+            <e p="AdjustSessionFailure.cs" t="Include" />
+            <e p="AdjustSessionSuccess.cs" t="Include" />
+            <e p="AdjustThirdPartySharing.cs" t="Include" />
+            <e p="AdjustUtils.cs" t="Include" />
+          </e>
+          <e p="Windows" t="Include">
+            <e p="AdjustWindows.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="BuildPostProcessor.cs" t="Include" />
+          <e p="PostBuild.cs" t="Include" />
+        </e>
+        <e p="EffectCore" t="Include">
+          <e p="packs" t="Include">
+            <e p="HitSplatterEffectPack1" t="Include">
+              <e p="Tips &amp; Documentations HitSplatterEffectPack1.txt" t="Include" />
+            </e>
+            <e p="WebDemoAssets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CameraShake.cs" t="Include" />
+                <e p="CameraShakeCaller.cs" t="Include" />
+                <e p="CameraShakeProjectile.cs" t="Include" />
+                <e p="EffectActor.cs" t="Include" />
+                <e p="ExplodingProjectile.cs" t="Include" />
+                <e p="Projectile.cs" t="Include" />
+                <e p="projectileActor.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="destroyMe.cs" t="Include" />
+            <e p="particleColorChangerMaster.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ExternalDependencyManager" t="Include">
+          <e p="Editor" t="Include">
+            <e p="external-dependency-manager_version-1.2.166_manifest.txt" t="Include" />
+          </e>
+        </e>
+        <e p="FacebookSDK" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ConsoleBase.cs" t="Include" />
+              <e p="LogView.cs" t="Include" />
+              <e p="MenuBase.cs" t="Include" />
+              <e p="SubMenus" t="Include">
+                <e p="AccessTokenMenu.cs" t="Include" />
+                <e p="AppEvents.cs" t="Include" />
+                <e p="AppLinks.cs" t="Include" />
+                <e p="AppRequests.cs" t="Include" />
+                <e p="DialogShare.cs" t="Include" />
+                <e p="GraphRequest.cs" t="Include" />
+                <e p="MainMenu.cs" t="Include" />
+                <e p="Pay.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="link.xml" t="Include" />
+          <e p="Plugins" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Dependencies.xml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Firebase" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AnalyticsDependencies.xml" t="Include" />
+            <e p="AppDependencies.xml" t="Include" />
+            <e p="FirebaseAnalytics_version-8.0.0_manifest.txt" t="Include" />
+          </e>
+          <e p="m2repository" t="Include">
+            <e p="com" t="Include">
+              <e p="google" t="Include">
+                <e p="Firebase" t="Include">
+                  <e p="firebase-analytics-unity" t="Include">
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                  <e p="firebase-app-unity" t="Include">
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="GameAnalytics" t="Include">
+          <e p="Editor" t="Include">
+            <e p="GA_AssetPostprocessor.cs" t="Include" />
+            <e p="GA_AutoRun.cs" t="Include" />
+            <e p="GA_ContinuationManager.cs" t="Include" />
+            <e p="GA_EditorUtilities.cs" t="Include" />
+            <e p="GA_Menu.cs" t="Include" />
+            <e p="GA_PostprocessBuild.cs" t="Include" />
+            <e p="GA_SettingsInspector.cs" t="Include" />
+            <e p="GA_SignUp.cs" t="Include" />
+            <e p="GA_UpdateWindow.cs" t="Include" />
+            <e p="GameAnalyticsInspector.cs" t="Include" />
+            <e p="Playmaker" t="Include">
+              <e p="PlayMakerPresenceCheck.cs" t="Include" />
+              <e p="SendProgressionEventActionEditor.cs" t="Include" />
+              <e p="SendResourceEventActionEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Playmaker" t="Include">
+              <e p="GAInitialize.cs" t="Include" />
+              <e p="GetABTestingId.cs" t="Include" />
+              <e p="GetABTestingVariantId.cs" t="Include" />
+              <e p="GetRemoteConfigsValueAsString.cs" t="Include" />
+              <e p="IsRemoteConfigsReady.cs" t="Include" />
+              <e p="SendAdEvent.cs" t="Include" />
+              <e p="SendBusinessEvent.cs" t="Include" />
+              <e p="SendDesignEvent.cs" t="Include" />
+              <e p="SendErrorEvent.cs" t="Include" />
+              <e p="SendProgressionEvent.cs" t="Include" />
+              <e p="SendResourceEvent.cs" t="Include" />
+              <e p="SetCustomDimension.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ATT" t="Include">
+                <e p="GameAnalyticsATTClient.cs" t="Include" />
+                <e p="GameAnalyticsATTObjCBridge.cs" t="Include" />
+              </e>
+              <e p="Enums.cs" t="Include" />
+              <e p="Events" t="Include">
+                <e p="GA_Ads.cs" t="Include" />
+                <e p="GA_Business.cs" t="Include" />
+                <e p="GA_Debug.cs" t="Include" />
+                <e p="GA_Design.cs" t="Include" />
+                <e p="GA_Error.cs" t="Include" />
+                <e p="GA_Progression.cs" t="Include" />
+                <e p="GA_Resource.cs" t="Include" />
+                <e p="GA_Setup.cs" t="Include" />
+                <e p="GA_SpecialEvents.cs" t="Include" />
+                <e p="GAValidator.cs" t="Include" />
+              </e>
+              <e p="Fyber" t="Include">
+                <e p="GAFyberIntegration.cs" t="Include" />
+              </e>
+              <e p="GameAnalytics.cs" t="Include" />
+              <e p="IGameAnalyticsATTListener.cs" t="Include" />
+              <e p="ILRD" t="Include">
+                <e p="Aequus" t="Include">
+                  <e p="GAAequusIntegration.cs" t="Include" />
+                </e>
+                <e p="GameAnalyticsILRD.cs" t="Include" />
+                <e p="Max" t="Include">
+                  <e p="GAMaxIntegration.cs" t="Include" />
+                </e>
+                <e p="TopOn" t="Include">
+                  <e p="GATopOnIntegration.cs" t="Include" />
+                </e>
+              </e>
+              <e p="IronSource" t="Include">
+                <e p="GAIronSourceIntegration.cs" t="Include" />
+              </e>
+              <e p="Mopub" t="Include">
+                <e p="GAMopubIntegration.cs" t="Include" />
+              </e>
+              <e p="Setup" t="Include">
+                <e p="Settings.cs" t="Include" />
+              </e>
+              <e p="State" t="Include">
+                <e p="GAState.cs" t="Include" />
+              </e>
+              <e p="Utilities" t="Include">
+                <e p="GA_MiniJson.cs" t="Include" />
+              </e>
+              <e p="Wrapper" t="Include">
+                <e p="GA_AndroidWrapper.cs" t="Include" />
+                <e p="GA_iOSWrapper.cs" t="Include" />
+                <e p="GA_MonoWrapper.cs" t="Include" />
+                <e p="GA_TizenWrapper.cs" t="Include" />
+                <e p="GA_tvOSWrapper.cs" t="Include" />
+                <e p="GA_UWPWrapper.cs" t="Include" />
+                <e p="GA_WebGLWrapper.cs" t="Include" />
+                <e p="GA_Wrapper.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="IronSource" t="Include">
+          <e p="DemoScene" t="Include">
+            <e p="IronSourceDemoScript.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="IAdapterSettings.cs" t="Include" />
+            <e p="IronSourceBuildPostprocessor.cs" t="Include" />
+            <e p="IronSourceDependenciesManager.cs" t="Include" />
+            <e p="IronSourceEditorCoroutines.cs" t="Include" />
+            <e p="IronSourceManifestProcessor.cs" t="Include" />
+            <e p="IronSourceMediatedNetworkSettings.cs" t="Include" />
+            <e p="IronSourceMediatedNetworkSettingsInspector.cs" t="Include" />
+            <e p="IronSourceMediationSettingsInspector.cs" t="Include" />
+            <e p="IronSourceMenu.cs" t="Include" />
+            <e p="IronSourcePlistProcessor.cs" t="Include" />
+            <e p="IronSourceSDKDependencies.xml" t="Include" />
+            <e p="ISAdColonyAdapterDependencies.xml" t="Include" />
+            <e p="ISAppLovinAdapterDependencies.xml" t="Include" />
+            <e p="ISChartboostAdapterDependencies.xml" t="Include" />
+            <e p="ISUnityAdsAdapterDependencies.xml" t="Include" />
+            <e p="ISVungleAdapterDependencies.xml" t="Include" />
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="IronSource.plugin" t="Include">
+                <e p="AndroidManifest.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AndroidAgent.cs" t="Include" />
+            <e p="iOSAgent.cs" t="Include" />
+            <e p="IronSource.cs" t="Include" />
+            <e p="IronSourceConfig.cs" t="Include" />
+            <e p="IronSourceConstants.cs" t="Include" />
+            <e p="IronSourceError.cs" t="Include" />
+            <e p="IronSourceEvents.cs" t="Include" />
+            <e p="IronSourceIAgent.cs" t="Include" />
+            <e p="IronSourceImpressionData.cs" t="Include" />
+            <e p="IronSourceInitilizer.cs" t="Include" />
+            <e p="IronSourceJSON.cs" t="Include" />
+            <e p="IronSourceMediationSettings.cs" t="Include" />
+            <e p="IronSourcePlacement.cs" t="Include" />
+            <e p="IronSourceSegment.cs" t="Include" />
+            <e p="IronSourceUtils.cs" t="Include" />
+            <e p="UnsupportedPlatformAgent.cs" t="Include" />
+          </e>
+        </e>
+        <e p="NiceVibrations" t="Include">
+          <e p="Common" t="Include">
+            <e p="Plugins" t="Include">
+              <e p="Android" t="Include">
+                <e p="AndroidManifest.xml" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="MMVibrationManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Lato" t="Include">
+                <e p="OFL.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="HapptinManager.cs" t="Include" />
+              <e p="NiceVibrationsDemoManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ReadMe.txt" t="Include" />
+        </e>
+        <e p="OutlineEffect" t="Include">
+          <e p="OutlineEffect" t="Include">
+            <e p="LinkedSet.cs" t="Include" />
+            <e p="Outline.cs" t="Include" />
+            <e p="OutlineEffect.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="OutlineBufferShader.shader" t="Include" />
+              <e p="OutlineShader.shader" t="Include" />
+            </e>
+          </e>
+          <e p="OutlineEffect.asmdef" t="Include" />
+          <e p="Samples" t="Include">
+            <e p="Demo" t="Include">
+              <e p="MaterialSwitcher.cs" t="Include" />
+              <e p="OutlineAnimation.cs" t="Include" />
+              <e p="Rotate.cs" t="Include" />
+              <e p="Toggle.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+            <e p="FirebaseApp.androidlib" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+              <e p="res" t="Include">
+                <e p="values" t="Include">
+                  <e p="google-services.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="GameUtils.androidlib" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+              <e p="res" t="Include">
+                <e p="xml" t="Include">
+                  <e p="applovin_max.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Tenjin.androidlib" t="Include">
+              <e p="AndroidManifest.xml" t="Include" />
+            </e>
+          </e>
+          <e p="Demigiant" t="Include">
+            <e p="DemiLib" t="Include">
+              <e p="Core" t="Include">
+                <e p="DemiLib.xml" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="DemiEditor.xml" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="DOTweenPro" t="Include">
+              <e p="DOTweenAnimation.cs" t="Include" />
+              <e p="DOTweenDeAudio.cs" t="Include" />
+              <e p="DOTweenDeUnityExtended.cs" t="Include" />
+              <e p="DOTweenProShortcuts.cs" t="Include" />
+              <e p="DOTweenTextMeshPro.cs" t="Include" />
+              <e p="DOTweenTk2d.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DOTweenAnimationInspector.cs" t="Include" />
+                <e p="DOTweenPreviewManager.cs" t="Include" />
+              </e>
+              <e p="ReadMe.txt" t="Include" />
+            </e>
+            <e p="readme_DOTweenPro.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ReadMe.txt" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="AdjustExample.cs" t="Include" />
+          <e p="AnalyticsAdsManager.cs" t="Include" />
+          <e p="Drag.cs" t="Include" />
+          <e p="DummyController.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="IronsourceManager_Editor.cs" t="Include" />
+          </e>
+          <e p="FloatingController.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="CCPA_Handler.cs" t="Include" />
+            <e p="GAAdsAnalyticsHandler.cs" t="Include" />
+            <e p="IronsourceAdCallingHandler.cs" t="Include" />
+            <e p="IronsourceEventsHandler.cs" t="Include" />
+          </e>
+          <e p="LiftController.cs" t="Include" />
+          <e p="Managers" t="Include">
+            <e p="GameAnalyticsManager.cs" t="Include" />
+            <e p="IronsourceManager.cs" t="Include" />
+          </e>
+          <e p="ObjectPooler.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PortalBehaviour.cs" t="Include" />
+          <e p="PortalController.cs" t="Include" />
+          <e p="SoundManager.cs" t="Include" />
+          <e p="Swipe.cs" t="Include" />
+          <e p="Test Scripts" t="Include">
+            <e p="IronsourceAdsTesting.cs" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include">
+          <e p="Font-20210910T130725Z-001" t="Include">
+            <e p="Font" t="Include">
+              <e p="OFL.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="KillerSplat.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OEBIF.csproj" t="IncludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
